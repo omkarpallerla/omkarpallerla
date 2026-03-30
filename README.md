@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Omkar+Pallerla+%F0%9F%91%8B;BI+Engineer+%7C+Analytics+Engineer;Data+Analyst+%7C+BI+Developer;MS+Business+Analytics+%40+ASU+%7C+GPA+4.0)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/omkarpallerla" target="_blank">
+  <a href="https://www.linkedin.com/in/omkar-pallerla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:omkar.pallerla@asu.edu">
+  <a href="mailto:omkar.m.pallerla@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
