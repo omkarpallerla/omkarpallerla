@@ -64,7 +64,6 @@
 ![Databricks DE Associate](https://img.shields.io/badge/Databricks_DE_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![GCP ACE](https://img.shields.io/badge/GCP_Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-r">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=omkarpallerla&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
 </div>
 
