@@ -64,51 +64,10 @@
 ![Databricks DE Associate](https://img.shields.io/badge/Databricks_DE_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![GCP ACE](https://img.shields.io/badge/GCP_Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
----
-
-## Project Portfolio
-
-### Business Intelligence and Dashboards
-
-| Project | Business Impact | Tech Used |
-|---------|----------------|-----------|
-| [Power BI Sales Dashboard](https://github.com/omkarpallerla/PowerBI-Dashboard-Portfolio) | Executive KPI dashboards with RLS, DAX measures and drill-through for C-suite reporting | Power BI, DAX, Power Query |
-| [Tableau to MicroStrategy Migration](https://github.com/omkarpallerla/Tableau-MicroStrategy-Migration) | End-to-end migration of 30+ reports - zero downtime, 40% faster load times | MicroStrategy, Tableau, SQL |
-| [Spotify Songs Popularity Analysis](https://github.com/omkarpallerla/Spotify-Songs-Popularity) | Analyzed 50K+ tracks to surface audio features driving streaming success | Python, Pandas, Matplotlib |
-
-### Data Engineering and Pipelines
-
-| Project | Business Impact | Tech Used |
-|---------|----------------|-----------|
-| [ETL Pipeline - Azure and Databricks](https://github.com/omkarpallerla/ETL-Pipeline-Azure-Databricks) | End-to-end ELT pipelines with 99% data accuracy and 30% faster reporting | ADF, Databricks, Delta Lake |
-| [SQL Analytics - Snowflake](https://github.com/omkarpallerla/SQL-Analytics-Snowflake) | Dimensional models and optimized SQL cutting warehouse compute costs by 25% | Snowflake, SQL, dbt |
-| [ATS Job Board Automation](https://github.com/omkarpallerla/ATS-Job-Board-Automation) | Self-built job board with ATS keyword scoring - 70+ keywords, 3.5x core skill weighting | Python, HTML, JavaScript |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarpallerla&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarpallerla&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-
-</div>
-
-<div align="center">
+r">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=omkarpallerla&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omkarpallerla&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</div>
-
----
 
 ## Current Status
 
