@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://omkarpallerla.github.io/portfolio/resume.pdf" target="_blank">
+  <a href="https://omkarpallerla.github.io/portfolio/Omkar_Pallerla_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
   &nbsp;
